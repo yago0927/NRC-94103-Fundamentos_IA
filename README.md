@@ -64,7 +64,7 @@ http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532001000100007
 
 
 
-## 📚 Bibliografía — Algunos recursos de apoyo en inglés
+## 📚 Webgrafía — Algunos recursos de apoyo en inglés
 
 ---
 
@@ -81,3 +81,17 @@ https://code.visualstudio.com/docs/datascience/data-science-tutorial \
 Este tutorial demuestra cómo se utiliza Visual Studio Code y la extensión Microsoft Python junto con bibliotecas comunes de ciencia de datos para explorar un escenario básico de ciencia de datos. Específicamente, usando datos de pasajeros del Titanic, aprenderás a configurar un entorno de ciencia de datos, importar y limpiar datos, crear un modelo de aprendizaje automático para predecir la supervivencia en el Titanic y evaluar la precisión del modelo generado.
 
 ---
+
+## 🐳 Uso con Docker (Python 3.11.9 amd64)
+
+Construir imagen:
+
+```bash
+docker build --platform linux/amd64 -t python-3.11.9-amd64 .
+```
+
+Probar imagen:
+
+```bash
+docker run --rm python-3.11.9-amd64
+```
