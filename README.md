@@ -62,4 +62,22 @@ https://nodd3r.com/blog/keras-vs-tensorflow-vs-pytorch-diferencias-clave-entre-f
 http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532001000100007
 > Cubre: regresión logística con caso aplicado paso a paso (interpretación de coeficientes, exp(b), variables dummy). Artículo académico real, indexado en SciELO.
 
+
+
+## 📚 Bibliografía — Algunos recursos de apoyo en inglés
+
+---
+
+[Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) \
+https://code.visualstudio.com/docs/python/python-tutorial \
+En este tutorial, aprenderás a usar Python 3 en Visual Studio Code para crear, ejecutar y depurar una aplicación de "¡tira un dado!" en Python, trabajar con entornos virtuales, usar paquetes y mucho más. Al usar la extensión de Python, conviertes VS Code en un editor de Python excelente y ligero.
+
+[Introduction to Python](https://vscodeedu.com/courses/intro-to-python)\
+https://vscodeedu.com/courses/intro-to-python \
+En este tutorial, aprenderás a usar Python 3 en Visual Studio Code para crear, ejecutar y depurar una aplicación de "¡tira un dado!" en Python, trabajar con entornos virtuales, usar paquetes y mucho más. Al usar la extensión de Python, conviertes VS Code en un editor de Python excelente y ligero.
+
+[Data Science in VS Code tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)\
+https://code.visualstudio.com/docs/datascience/data-science-tutorial \
+Este tutorial demuestra cómo se utiliza Visual Studio Code y la extensión Microsoft Python junto con bibliotecas comunes de ciencia de datos para explorar un escenario básico de ciencia de datos. Específicamente, usando datos de pasajeros del Titanic, aprenderás a configurar un entorno de ciencia de datos, importar y limpiar datos, crear un modelo de aprendizaje automático para predecir la supervivencia en el Titanic y evaluar la precisión del modelo generado.
+
 ---
