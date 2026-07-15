@@ -3,7 +3,7 @@
 **Curso:** Fundamentos para Inteligencia Artificial (NRC 94103)
 **Institución:** Universidad Minuto de Dios (UNIMINUTO)
 **Docente:** Ing. César Alfonso Bolado Silva
-**Elaborado por:** [Nombre(s) del/los estudiante(s) del equipo]
+**Elaborado por:** 
 **Actividad:** Semana 2 – Estudio de caso colaborativo
 **Fecha:** Julio de 2026
 
