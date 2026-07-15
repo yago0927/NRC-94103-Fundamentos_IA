@@ -1,4 +1,4 @@
-Actividad Semana 2
+Actividad semana 2
 
 A continuación se encuentra la actividad que deberá realizar en esta semana, la cual dará cuenta de su aprendizaje hasta el momento; tenga presente que la calificación que obtendrá se sumará a su evaluación final.
 
@@ -31,10 +31,10 @@ Tiempo para la consulta de materiales: 5 horas
 Recurso(s) básico(s): 
 
 Boschetti, A. y Massaron, L. (2018).Python Data Science Essentials: A Practitioner's Guide Covering Essential Data Science Principles, Tools, and TechniquesLinks to an external site. (10-35). Packt Publishing, Limited.
-So, A., Joseph, T. V., John, R. T., Worsley, A. y Asare, S. (2020). The data science workshop: A new, interactive approach to learning data science.Links to an external site. (pp. 16-36) Packt Publishing, Limited.
+So, A., Joseph, T.V., John, R.T., Worsley, A. y Asare, S. (2020). The data science workshop: A new, interactive approach to learning data science.Links to an external site. (pp. 16-36) Packt Publishing, Limited.
 Recurso(s) complementario(s): 
 
 Mert, U., y Cuhadaroglu, M. (2018). Mastering numerical computing with NumPy: Master scientific computing and perform complex operations with easeLinks to an external site. (55-87). Packt Publishing, Limited.
-Jakki Seshapanpu. (2019). Students Performance in ExamsLinks to an external site.. Kaggle.
+Jakki Seshapanpu. (2019). Students' Performance in ExamsLinks to an external site. Kaggle.
 
 Rol del profesor: A través de los canales de comunicación del curso, guiará el análisis del Dataset, orientando el uso de Python, la identificación de variables y el diagnóstico de calidad de los datos. Aclarará dudas, ampliará conceptos y proporcionará retroalimentación continua. Finalmente, evaluará la actividad según los criterios establecidos en la rúbrica.
