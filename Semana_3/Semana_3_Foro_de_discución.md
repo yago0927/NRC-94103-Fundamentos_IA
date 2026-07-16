@@ -8,7 +8,7 @@ El estudiante responderá preguntas en el foro de discusión sobre herramientas 
 
 **Indicaciones para el desarrollo de la actividad:**
 
-A partir de la información revisada en la semana y el contenido del [**anexo**](https://repo.uniminuto.edu/recursos/files/r1r/w8895w/EIARV011_ACTUALIZ_bloq28/EIARV011_F3_Anexo.pdf), responda la siguiente pregunta en el foro de discusión:
+A partir de la información revisada en la semana y el contenido del [**anexo**](EIARV011_F3_Anexo.md), responda la siguiente pregunta en el foro de discusión:
 
 * Teniendo en cuenta la actividad anterior de “probar el framework en 3 minutos” (importar Scikit-learn, TensorFlow o PyTorch y mostrar su versión), ¿cómo influye la elección de este *framework* en el diseño y desarrollo de una aplicación práctica de IA en Python y qué criterios técnicos consideraría más adecuados seleccionar para el tipo de problema, los datos disponibles y el contexto de aplicación (por ejemplo: preprocesamiento, soporte GPU/rendimiento, facilidad de entrenamiento, interpretabilidad, comunidad/documentación e integración para despliegue)?
 
