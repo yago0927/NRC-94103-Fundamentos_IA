@@ -21,3 +21,6 @@ ENV/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# Large media files (exceed GitHub's 100MB limit)
+*.mp4

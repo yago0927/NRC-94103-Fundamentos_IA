@@ -1,6 +1,7 @@
 **Taller** 
 
 Fundamentos para IA  
+
 ***Taller.*** **Librerías de Python para inteligencia artificial** 
 
 **Descripción:** El estudiante elaborará, de forma colaborativa, un taller sobre las librerías de  Python para inteligencia artificial, con los objetivos de experimentar con las librerías  Matplotlib y Seaborn y utilizar las librerías Numpy y SciPy. 

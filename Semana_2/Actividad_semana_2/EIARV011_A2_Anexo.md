@@ -1,8 +1,7 @@
 
-
 # **Anexo**
 
-Fundam,entos para IA
+Fundamentos para IA
 
 ***Anexo.*** **Consulta en un *Dataset***
 

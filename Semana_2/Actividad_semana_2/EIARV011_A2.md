@@ -10,14 +10,14 @@ Fundam1entos para IA
 
 **Indicaciones del desarrollo:**
 
-A partir de la revisión del **anexo**, los recursos básicos y los demás recursos de la semana, elaboren un estudio de caso teniendo en cuenta los siguientes aspectos:
+A partir de la revisión del [**anexo**](EIARV011_A2_Anexo.md), los recursos básicos y los demás recursos de la semana, elaboren un estudio de caso teniendo en cuenta los siguientes aspectos:
 
 1. Realicen un estudio de caso en un procesador de textos, tipo de letra Arial, tamaño 11, interlineado 1.5, con una extensión mínima de 3 páginas y máxima de 5, sin contar la portada ni la bibliografía. Consideren la estructura presentada a continuación.
 
    * **Objeto de estudio:** Identifiquen y describan el problema o la situación particular a analizar en relación con el uso de Python para leer y analizar un archivo CSV, enfocándose en la relación y en el análisis de sus columnas o variables.  
    * **Actores y contextos:** Identifiquen y describan, de manera detallada, los actores involucrados en el proceso de análisis de datos y el entorno o contexto tecnológico utilizado (Python, bibliotecas para ciencia de datos, etc.).  
    * **Objetivos:** Definan los objetivos del estudio de caso, tales como la aplicación de Python para procesar datos, la exploración y análisis de las columnas del *Dataset* y la interpretación de los resultados obtenidos para identificar tendencias o relaciones.  
-   * **Informe final:** De acuerdo con las preguntas contenidas en el anexo:
+   * **Informe final:** De acuerdo con las preguntas contenidas en el [anexo](EIARV011_A2_Anexo.md):
 
      * Comprendan las variables (columnas): Definición del diccionario de datos, detallando la naturaleza (numérica o categórica), el formato y el propósito de cada columna dentro del estudio.  
      * Diagnóstico de calidad de los datos: Evaluación de la integridad del *dataset* mediante la identificación de valores nulos, registros duplicados o inconsistencias lógicas.  
