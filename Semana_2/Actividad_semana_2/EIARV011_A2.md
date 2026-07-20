@@ -1,5 +1,4 @@
 
-
 # **Estudio de caso**
 
 Fundam1entos para IA
@@ -12,7 +11,7 @@ Fundam1entos para IA
 
 A partir de la revisión del [**anexo**](EIARV011_A2_Anexo.md), los recursos básicos y los demás recursos de la semana, elaboren un estudio de caso teniendo en cuenta los siguientes aspectos:
 
-1. Realicen un estudio de caso en un procesador de textos, tipo de letra Arial, tamaño 11, interlineado 1.5, con una extensión mínima de 3 páginas y máxima de 5, sin contar la portada ni la bibliografía. Consideren la estructura presentada a continuación.
+1. Realicen un estudio de caso en un procesador de textos o pdf. Consideren la estructura presentada a continuación.
 
    * **Objeto de estudio:** Identifiquen y describan el problema o la situación particular a analizar en relación con el uso de Python para leer y analizar un archivo CSV, enfocándose en la relación y en el análisis de sus columnas o variables.  
    * **Actores y contextos:** Identifiquen y describan, de manera detallada, los actores involucrados en el proceso de análisis de datos y el entorno o contexto tecnológico utilizado (Python, bibliotecas para ciencia de datos, etc.).  

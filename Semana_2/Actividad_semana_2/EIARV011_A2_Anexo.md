@@ -44,18 +44,15 @@ Fundamentos para IA
 
 A continuación, se presentan las preguntas que guiarán el desarrollo del informe final. Deberá basarse en ellas para realizar un análisis completo del *dataset*:
 
-1. ¿Qué fenómeno, proceso o contexto representa el *dataset*?
-
+   1. ¿Qué fenómeno, proceso o contexto representa el *dataset*?
    2. ¿Cuáles son las 5 variables más importantes para describir el caso y por qué?  
-   3. ¿Qué hallazgos se observan en la distribución de variables (categóricas y numéricas)?  
-   4. ¿Qué relación relevante encontraron entre las variables? (mínimo 2\)
+   3. ¿Qué hallazgos se observan en la distribución de variables (categóricas y numéricas)?
+   4. ¿Qué relación relevante encontraron entre las variables? (mínimo 2)
 
-   5. ¿Qué problemas de calidad de datos detectaron y cómo los abordan?
-
-   6. Con base en lo observado: ¿qué pregunta de IA o problema predictivo podría plantearse a futuro con este *dataset*? (ej: clasificación, regresión, *clustering*)
+   Preguntas para complementar el análisis:
+   1. ¿Qué problemas de calidad de datos detectaron y cómo los abordan?
+   2. Con base en lo observado: ¿qué pregunta de IA o problema predictivo podría plantearse a futuro con este *dataset*? (ej: clasificación, regresión, *clustering*)
 
 6. ## **Recuerden que el informe debe cumplir con los siguientes lineamientos:**
 
-* Utilicen un procesador de textos con tipo de letra Arial, tamaño 11, interlineado 1.5.  
-* La extensión mínima será de 3 páginas y máxima de 5, sin contar la portada ni la bibliografía.  
 * Presenten la información de manera clara, organizada, cuidando la redacción y ortografía.
