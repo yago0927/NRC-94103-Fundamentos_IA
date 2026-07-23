@@ -38,16 +38,16 @@
 
 ## 📋 Plan de trabajo
 
-| Semana | Contenido | Resultados de aprendizaje | Carpeta | Actividad |
-| :---- | :---- | :---- | :---- | :---- |
-| 1 | Introducción a Python para inteligencia artificial. | Aplica el lenguaje de programación Python. Experimenta con el intérprete de Python. | Semana\_1 |  |
-| 2 | Python para ciencia de datos. | Utiliza python para ciencia de datos | Semana\_2 | EIARV011\_A2.md EIARV011\_A2\_Anexo.md StudentsPerformance.csv |
-| 3 | Frameworks para inteligencia artificial. | Usa frameworks para inteligencia artificial.  | Semana\_3 | Semana\_3\_Foro\_de\_discución.md |
-| 4 | Librerías para cálculo numérico, análisis y visualización de datos. | Experimenta con las librerías Matplotlib y Seaborn Utiliza librerías Numpy y SciPy | Semana\_4 | EIARV011\_A4.md EIARV011\_A4\_Anexo.md |
-| 5 | Estadística básica y visualización de datos. | Integra la estadística básica y visualización de datos. | Semana\_5 |  |
-| 6 | Estadística inferencial I: prueba de hipótesis. | Integra la estadística básica y visualización de datos. | Semana\_6 |  |
-| 7 | Estadística inferencial II: regresión lineal. | Argumenta la regresión lineal. | Semana\_7 |  |
-| 8 | Estadística inferencial III: regresión logística. | Relaciona la regresión logística. | Semana\_8 |  |
+| Semana | Contenido | Resultados de aprendizaje                                                           | Carpeta   | Actividad                                                      |
+| :---- | :---- |:------------------------------------------------------------------------------------|:----------|:---------------------------------------------------------------|
+| 1 | Introducción a Python para inteligencia artificial. | Aplica el lenguaje de programación Python. Experimenta con el intérprete de Python. | Semana_1 |                                                                |
+| 2 | Python para ciencia de datos. | Utiliza python para ciencia de datos                                                | Semana_2 | EIARV011\_A2.md EIARV011\_A2\_Anexo.md StudentsPerformance.csv |
+| 3 | Frameworks para inteligencia artificial. | Usa frameworks para inteligencia artificial.                                        | Semana_3 | EIARV011_F3_Foro.md EIARV011_F3_Anexo.md                        |
+| 4 | Librerías para cálculo numérico, análisis y visualización de datos. | Experimenta con las librerías Matplotlib y Seaborn Utiliza librerías Numpy y SciPy  | Semana_4  | EIARV011\_A4.md EIARV011\_A4\_Anexo.md                         |
+| 5 | Estadística básica y visualización de datos. | Integra la estadística básica y visualización de datos.                             | Semana_5  |                                                                |
+| 6 | Estadística inferencial I: prueba de hipótesis. | Integra la estadística básica y visualización de datos.                             | Semana_6  |                                                                |
+| 7 | Estadística inferencial II: regresión lineal. | Argumenta la regresión lineal.                                                      | Semana_7  |                                                                |
+| 8 | Estadística inferencial III: regresión logística. | Relaciona la regresión logística.                                                   | Semana_8  |                                                                |
 
 ## 📚 Bibliografía — Algunos recursos en español
 

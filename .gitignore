@@ -24,3 +24,6 @@ Thumbs.db
 
 # Large media files (exceed GitHub's 100MB limit)
 *.mp4
+
+# Ignorar los archivos o carpetas que tengan la palabra "profesor"
+*profesor*
